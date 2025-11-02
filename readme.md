@@ -5,4 +5,4 @@
 - data structures (list,tuple,set,dict)
 - classes
 - objects
-
+-exceptions
